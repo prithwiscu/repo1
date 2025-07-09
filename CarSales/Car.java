@@ -10,6 +10,7 @@ public class Car
     // instance variables - replace the example below with your own
     private int x;
     private int y;
+    private int z;
 
     /**
      * Constructor for objects of class Car
